@@ -1,12 +1,17 @@
-# A simple to-do app built with Vite, React js, Tailwind CSS
+# A simple To-Do App Built with Vite, React js and Tailwind CSS
 
-![Screenshot.png](/Screenshot.png)
+![Screenshot.png](/public/Screenshot.png)
 
 ## Technologies used
 - vite
 - React 19
 - Tailwind CSS: 4.1
-- Fort Awesome 6.7.2
+- Font Awesome 6.7.2
 
-## Install
-
+## Installation
+1. Clone the repository:
+    `https://github.com/Wolf-Root/ToDo-List-.git`
+2. Install dependencies:
+    `npm install`
+3. Start the development server:
+    `npm run dev`
