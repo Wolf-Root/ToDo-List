@@ -3,15 +3,28 @@
 ![Screenshot.png](/public/Screenshot.png)
 
 ## Technologies used
-- vite
-- React 19
-- Tailwind CSS: 4.1
-- Font Awesome 6.7.2
+
+-   vite
+-   React 19
+-   Tailwind CSS: 4.1
+-   Font Awesome 6.7.2
 
 ## Installation
+
 1. Clone the repository:
-    `https://github.com/Wolf-Root/ToDo-List-.git`
+
+```bash
+https://github.com/Wolf-Root/ToDo-List-.git
+```
+
 2. Install dependencies:
-    `npm install`
+
+```bash
+npm install
+```
+
 3. Start the development server:
-    `npm run dev`
+
+```bash
+npm run dev
+```
