@@ -6,7 +6,7 @@
 
 -   vite
 -   React 19
--   Tailwind CSS: 4.1
+-   Tailwind CSS 4.1
 -   Font Awesome 6.7.2
 
 ## Installation
